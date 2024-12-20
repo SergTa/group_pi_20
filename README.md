@@ -35,9 +35,18 @@
 
 ![Startupscreen](./src/models/data/releases.jpg)
 
+![Add](./src/models/data/releases_add.jpg)
+
+
+
 ### Предсказание рисков
     - На странице "Releases" выберите релиз и нажмите кнопку "Select".
     - Нажмите кнопку "Calculate Risk" для получения предсказания рисков.
+
+![Startupscreen](./src/models/data/releases_add_one.jpg)
+
+![Add](./src/models/data/calculate.jpg)
+
 
 ## Структура проекта
 ```
