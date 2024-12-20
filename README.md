@@ -1,4 +1,4 @@
-![Logotype](./src/models/data/ETL-Testing-610x343.jpg)
+![Logotype](./src/models/data/ETL.png)
 # group_pi_20
 Проектный практикум, 3 семестр
 
