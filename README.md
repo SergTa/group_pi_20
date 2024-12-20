@@ -31,15 +31,18 @@
 
 ### Добавление релиза
     - Перейдите на страницу "Releases" и нажмите кнопку "Add Release".
-    - Заполните форму с параметрами релиза и нажмите "Submit".
 
 ![Add](./src/models/data/releases_add.jpg)
+
+    - Заполните форму с параметрами релиза и нажмите "Submit".
 ![Add one](./src/models/data/releases_add_one.jpg)
 
 ### Предсказание рисков
     - На странице "Releases" выберите релиз и нажмите кнопку "Select".
-    - Нажмите кнопку "Calculate Risk" для получения предсказания рисков.
+
 ![Releases](./src/models/data/releases.jpg)
+
+    - Нажмите кнопку "Calculate Risk" для получения предсказания рисков.
 ![Calc](./src/models/data/calculate.jpg)
 
 ## Структура проекта
